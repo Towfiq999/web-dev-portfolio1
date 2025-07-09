@@ -36,9 +36,12 @@ background-position: top left,bottom right;
  /* about styles */
  .about{
     border-radius: 15px;
-     padding: 125px 130px;
+     /* padding: 125px 130px; */
      text-align: center;
-     margin-top: 130px;
+     margin-top: 70px;
+     
+     border-radius: 20px;
+    
      
  }
  .item-description{
@@ -68,6 +71,24 @@ background-position: top left,bottom right;
     gap: 25px;
     
 }
+.resume-container{
+    display: flex;
+    gap: 27px;
+   padding: 0 auto;
+    background-color: #FFF8F3;
+    border-radius: 20px;
+}
+.text-center{
+    text-align: center;
+    margin-top: 50px;
+}
+.section-title{
+    background-color: #FFF8F3;
+text-align: center;
+margin-top: 300px;
+margin-bottom: 50px;
+padding: 0 auto;
+}
 
 
 
@@ -92,7 +113,9 @@ font-weight: bold;
 padding: 18px ;
 border-radius: 10px;
 border: none;
+
 }
+
 .nav-title{
     font-weight: 800;
     font-size: 45px;
