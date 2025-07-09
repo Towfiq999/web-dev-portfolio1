@@ -151,3 +151,32 @@ font-weight: 650;
 .banner-profile{
     width: 580px;
 }
+
+footer{
+    padding: 130px 230px;
+    display: flex;
+    gap: 100px;
+}
+footer input[type="text"]{
+    height: 65px;
+    border-radius: 10px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding:10px 20px ;
+    border: none;
+    margin-bottom: 30px;
+}
+.x{
+     height: 65px;
+    border-radius: 10px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding:10px 20px ;
+    border: none;
+}
+
+
+
+
