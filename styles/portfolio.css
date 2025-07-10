@@ -157,7 +157,12 @@ footer{
     display: flex;
     gap: 100px;
 }
+footer{
+    margin-top: 50px;
+   
+}
 footer input[type="text"]{
+    
     height: 65px;
     border-radius: 10px;
     background-color: white;
